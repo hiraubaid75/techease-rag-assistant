@@ -1,0 +1,10 @@
+To get started, create a TechEase account using your email address.
+After signup, verify your email to activate the account.
+Log in and open Settings to configure your workspace name and timezone.
+Invite team members by email from the Team section.
+Connect at least one integration (for example Slack or Google Workspace) if needed.
+Create your first project and define the key workflow steps.
+Enable notifications to receive updates when tasks change status.
+Use the Help Center inside the app for common setup questions.
+If you see errors during setup, restart the browser and try again.
+If the issue continues, contact support with a screenshot and the time of the error.

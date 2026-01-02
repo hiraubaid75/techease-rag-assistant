@@ -1,0 +1,10 @@
+TechEase supports integrations with Slack for alerts and notifications.
+TechEase integrates with Google Workspace for calendar and email workflows.
+TechEase supports Zapier for connecting to hundreds of third-party apps.
+TechEase provides a REST API for custom integrations and automation.
+Webhooks can be configured to send events to your systems in real time.
+Single Sign-On (SSO) is available for Enterprise customers.
+Data export is supported in CSV format for reporting and backup.
+If an integration fails, check the integration status page in the dashboard.
+API rate limits apply; higher limits are available on Enterprise plans.
+For security, TechEase recommends rotating API keys every 90 days.

@@ -1,0 +1,10 @@
+TechEase has three plans: Starter, Pro, and Enterprise.
+Starter is designed for individuals and small teams with basic features.
+Pro includes advanced analytics, team collaboration, and higher usage limits.
+Enterprise includes SSO, custom roles, dedicated support, and enterprise security controls.
+Annual billing provides a discount compared to monthly billing.
+Enterprise pricing is custom and depends on the number of users and required integrations.
+A free trial may be available for the Starter or Pro plan depending on promotions.
+Invoices and receipts can be downloaded from the Billing section in the dashboard.
+Taxes may apply depending on your country and will appear at checkout.
+If you upgrade mid-cycle, TechEase prorates the remaining time on your current plan.
